@@ -1,0 +1,18 @@
+[23-Aug-2024 12:09:22 UTC] PHP Notice:  Array to string conversion in /home/zengoinv/aramex.site/lib/Conexion.php on line 75
+[23-Aug-2024 12:09:22 UTC] PHP Notice:  Array to string conversion in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_update_driver_ajax.php on line 148
+[25-Aug-2024 07:24:00 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:24:01 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:35:39 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:35:39 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:36:01 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:36:01 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:38:33 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[25-Aug-2024 07:38:33 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 15:03:11 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 15:03:11 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 15:38:14 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 15:38:14 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 16:12:28 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 16:12:28 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 16:12:52 US/Arizona] PHP Notice:  Trying to get property 'sender_country' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222
+[26-Aug-2024 16:12:52 US/Arizona] PHP Notice:  Trying to get property 'sender_city' of non-object in /home/zengoinv/aramex.site/ajax/customers_packages/customers_package_list_ajax.php on line 222

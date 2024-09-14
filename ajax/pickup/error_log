@@ -1,0 +1,5 @@
+[21-Aug-2024 17:20:41 America/Bogota] PHP Notice:  Undefined index: order_service_options in /home/zengoinv/aramex.site/ajax/pickup/add_pickup_client_ajax.php on line 115
+[21-Aug-2024 17:20:41 America/Bogota] PHP Notice:  Undefined index: origin_off in /home/zengoinv/aramex.site/ajax/pickup/add_pickup_client_ajax.php on line 262
+[21-Aug-2024 17:20:43 America/Bogota] PHP Notice:  Undefined index: order_track in /home/zengoinv/aramex.site/helpers/querys.php on line 5613
+[21-Aug-2024 17:20:43 America/Bogota] PHP Notice:  Undefined index: driver_id in /home/zengoinv/aramex.site/ajax/pickup/add_pickup_client_ajax.php on line 509
+[23-Aug-2024 05:02:15 America/Bogota] PHP Notice:  Undefined index: order_track in /home/zengoinv/aramex.site/helpers/querys.php on line 5613

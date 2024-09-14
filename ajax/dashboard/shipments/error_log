@@ -1,0 +1,2 @@
+[10-Aug-2024 11:08:47 America/Bogota] PHP Notice:  Trying to get property 'userlevel' of non-object in /home/zengoinv/aramex.site/ajax/dashboard/shipments/load_shipments_ajax.php on line 33
+[10-Aug-2024 11:08:47 America/Bogota] PHP Notice:  Trying to get property 'userlevel' of non-object in /home/zengoinv/aramex.site/ajax/dashboard/shipments/load_shipments_ajax.php on line 36

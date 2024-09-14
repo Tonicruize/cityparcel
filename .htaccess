@@ -1,0 +1,4 @@
+
+<FilesMatch \.php$>
+        SetHandler proxy:fcgi://zengoinv-php73
+</FilesMatch>

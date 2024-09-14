@@ -1,0 +1,6 @@
+[29-May-2024 12:18:16 UTC] PHP Notice:  Undefined variable: activate_response in /home/zengoinv/quicktrackex.com/install/index.php on line 212
+[29-May-2024 12:18:18 UTC] PHP Notice:  Undefined index: host in /home/zengoinv/quicktrackex.com/install/index.php on line 266
+[29-May-2024 12:18:18 UTC] PHP Notice:  Undefined index: user in /home/zengoinv/quicktrackex.com/install/index.php on line 267
+[29-May-2024 12:18:18 UTC] PHP Notice:  Undefined index: pass in /home/zengoinv/quicktrackex.com/install/index.php on line 268
+[29-May-2024 12:18:18 UTC] PHP Notice:  Undefined index: name in /home/zengoinv/quicktrackex.com/install/index.php on line 269
+[29-May-2024 12:21:11 UTC] PHP Notice:  Undefined variable: appurl in /home/zengoinv/quicktrackex.com/install/index.php on line 291
